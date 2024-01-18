@@ -39,7 +39,7 @@
 [인벤](https://lol.inven.co.kr) // [op.gg](https://op.gg) // [게임위키](https://mapgenie.io/elden-ring/maps/the-lands-between)
 
 ## 어떤 개발자가 되고싶은가
-`` "나 이거 필요했는데 진짜 잘됐다!"의 "이거"를 만드는 개발자 ``
+"나 ``이거`` 필요했는데 진짜 잘됐다!"의 ``이거``를 만드는 개발자
 
 ## 싸피에 들어온 이유
 `` 분위기 동기 알고리즘스터디 ``
