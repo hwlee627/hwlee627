@@ -1,4 +1,5 @@
-### Hi there 👋
+### AGE
+``` 28 [1997.06.27 ```
 
 <!--
 **hwlee627/hwlee627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
