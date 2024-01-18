@@ -35,7 +35,7 @@
 
 ## 왜 개발자가 되고싶은가
 `` 정보를 가공해서 예쁘게 보여주고싶다 ``
-`` 목표는 [인벤](https://lol.inven.co.kr/, "inven link"), op.gg, 게임위키 ``
+[인벤](https://lol.inven.co.kr) // [op.gg](https://op.gg) // [게임위키](https://mapgenie.io/elden-ring/maps/the-lands-between)
 <!--
 **hwlee627/hwlee627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
