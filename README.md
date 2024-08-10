@@ -42,12 +42,6 @@
 ## 어떤 개발자가 되고싶은가
 "나 ``이거`` 필요했는데 진짜 잘됐다!"의 ``이거``를 만드는 개발자
 
-## 싸피에 들어온 이유
-`` 분위기 동기 알고리즘스터디 ``
-
-## 1학기 마음가짐
-`` 사상누각 ``
-
 
 <!--
 **hwlee627/hwlee627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
